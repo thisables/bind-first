@@ -1,6 +1,6 @@
 {
   "name": "bind-first",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "convert data-first functions into `::`-functions",
   "license": "MIT",
   "repository": "stoeffel/bind-first",

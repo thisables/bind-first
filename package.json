@@ -1,6 +1,6 @@
 {
   "name": "@thisables/bind-first",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "convert data-first functions into `::`-functions",
   "license": "MIT",
   "repository": "thisables/bind-first",

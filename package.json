@@ -1,9 +1,9 @@
 {
-  "name": "bind-first",
+  "name": "@thisables/bind-first",
   "version": "1.0.1",
   "description": "convert data-first functions into `::`-functions",
   "license": "MIT",
-  "repository": "stoeffel/bind-first",
+  "repository": "thisables/bind-first",
   "author": {
     "name": "Stoeffel",
     "email": "schtoeffel@gmail.com",

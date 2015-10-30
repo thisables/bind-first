@@ -1,4 +1,4 @@
-# bind-first [![Build Status](https://travis-ci.org/stoeffel/bind-first.svg?branch=master)](https://travis-ci.org/stoeffel/bind-first)
+# bind-first [![Build Status](https://travis-ci.org/thisables/bind-first.svg?branch=master)](https://travis-ci.org/thisables/bind-first)
 
 > convert data-first functions into `::`-functions
 
@@ -8,14 +8,14 @@ This is a converter function to make a data-first function working with [functio
 ## Install
 
 ```
-$ npm install --save bind-first
+$ npm install --save @thisables/bind-first
 ```
 
 
 ## Usage
 
 ```js
-import { bindFirst } from 'bind-first';
+import { bindFirst } from '@thisables/bind-first';
 
 const data = { id: 1, name: 'foo' };
 
@@ -34,7 +34,7 @@ If you’re wondering what the `::` thing means, you’d better read this excell
 
 ## Related
 
-* [bind-last](https://github.com/stoeffel/bind-last) to convert data-last functions into `::`-functions
+* [bind-last](https://github.com/thisables/bind-last) to convert data-last functions into `::`-functions
 
 ## License
 
